@@ -9,7 +9,7 @@ This is a super simple application which I created just to play around with vue.
 * Bootstrap
 
 ## Have a butchers
-[Click here :)]
+[Click here :)](https://github.com/leesh22/vue-festival-board)
 
 
 ## Contact
